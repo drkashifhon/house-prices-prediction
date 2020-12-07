@@ -1,2 +1,3 @@
 # House-prices-prediction
-Predicting house prices using iphython jupyor notebook 
+Predicting house prices implementation using iphython jupyor notebook 
+download code and dataset file
