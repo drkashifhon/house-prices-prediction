@@ -1,2 +1,2 @@
 # house-prices-prediction
-house prices prediction
+Predicting house prices 
